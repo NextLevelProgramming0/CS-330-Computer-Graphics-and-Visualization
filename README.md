@@ -7,7 +7,7 @@
   
   2. What design process did you follow for your project work?
     
-    First I had to understand the concepts of the code that was already in place, read through the new material that would teach me the new techniques, then apply those techniques to the assignment and my final project.  I did this week by week using agile design techniques to come to the completion of my 3D Scene.
+  First I had to understand the concepts of the code that was already in place, read through the new material that would teach me the new techniques, then apply those techniques to the assignment and my final project.  I did this week by week using agile design techniques to come to the completion of my 3D Scene.
     
   3. How could tactics from your design approach be applied in future work?
 
